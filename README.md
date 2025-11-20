@@ -86,5 +86,19 @@ Cluster scatterplots
 Centroid comparison
 Feature distribution by cluster
 
-📊 Results
-Example outputs included in the notebook:
+### 📊 Results
+
+#### monetary-frequency-recency
+![results](results/monetary-frequency-recency.png)
+
+#### scatter-plot-customer-data
+![results](results/scatter-plot-customer-data.png)
+
+#### kmeans-inertia-for-different-values-of-k
+![results](results/kmeans-inertia-for-different-values-of-k.png)
+
+#### clusterized-customer-data
+![results](results/clusterized-customer-data.png)
+
+#### cluster-distrib-avg-feature-values
+![results](results/cluster-distrib-avg-feature-values.png)
